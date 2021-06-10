@@ -1,0 +1,73 @@
+.navbar {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);;
+    background-color: white;
+    width: 100%;
+    font-family: Verdana,sans-serif;
+    letter-spacing: 5px;
+    font-size: 15px;
+   
+ }
+ .navbar ul li{
+     margin-right: 20px;
+ 
+ }
+ .logo{
+     font-weight: bolder;
+ }
+ .navbar a{
+     padding: 8px;
+ }
+ .navbar a:hover{
+     background-color: rgba(37, 35, 35, 0.294);
+     padding: 8px;
+     text-decoration:none;
+     color: black;
+ }
+ .carousel-caption {
+     top:350px; 
+    
+ }
+ .carousel-caption h1{
+     font-size: 36px;
+     font-family: "Segoe UI", Arial, sans-serif;
+     color: rgb(255, 255, 255);
+      font-weight: 400;
+      letter-spacing: 4px;
+      line-height: 54px;
+      margin-bottom: 10px;
+      margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 10px;
+ text-align: center;
+ }
+ 
+ .container-fluid , .w3-border-bottom , .lead{
+ 
+    margin-left: 20px;
+    margin-right: 20px;
+    
+ 
+ }
+ .container-fluid ,.container-fluid img{
+     width: 97%;
+     
+ }
+ .container-fluid input{
+     margin-top: 12px;
+ }
+ .btn-outline-secondary{
+     width: 100%;
+ }
+ .w3-center{
+     margin-top: 10px;
+ }
+ .w3-display-topleft{
+     margin-left: 15px;
+ }
+ .col-xs-12{
+     margin-top: 10px;
+    
+ }
+ .card img{
+     filter: grayscale(70%);
+ }
