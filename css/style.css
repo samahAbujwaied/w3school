@@ -71,3 +71,7 @@
  .card img{
      filter: grayscale(70%);
  }
+span{
+     font-weight: bolder;
+    
+ }
